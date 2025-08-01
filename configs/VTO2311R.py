@@ -11,7 +11,7 @@ DAHUA_FILES = OrderedDict([
 	}),
 	("dhdtb.bin.img", {
 		"required": True,
-		"type": DAHUA_TYPE.Plain,
+		"type": DAHUA_TYPE.uImage | DAHUA_TYPE.CramFS,
 		"size": 0x00100000
 	}),
 	("kernel.img", {
