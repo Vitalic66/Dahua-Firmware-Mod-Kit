@@ -17,5 +17,5 @@ DAHUA_CONFIGS = [
 	"SD-Zi-Themis",
 	"VTO2000A", "VTO2311R",
 	"NVR4XXX-4KS2", "NVR4XXX-4K", "NVR4xxx",
-	"HCVR5x04",
+	"HCVR5x04", "IPC-G42",
 ]
